@@ -57,5 +57,5 @@ If a book is returned late, the fine is calculated as:
 1. Open VS Code terminal  
 2. Go to project folder  
 3. Run:
-python main.py
+   
 
